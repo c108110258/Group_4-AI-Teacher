@@ -18,7 +18,7 @@
 uuu
 ```
 ---------------------------------------
-![GITHUB](https://pbs.twimg.com/semantic_core_img/1255911694812864518/Mc1NaWgq?format=jpg&name=small"mask")
+![GITHUB](https://pbs.twimg.com/semantic_core_img/1255911694812864518/Mc1NaWgq?format=jpg&name=small)
 
 
 ---------------------------------------
