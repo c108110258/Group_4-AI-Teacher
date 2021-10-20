@@ -6,3 +6,6 @@
 >>I like milk
 >>> I like swim
 
+...c
+printf("HO");
+...
