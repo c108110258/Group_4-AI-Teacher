@@ -6,6 +6,14 @@
 >>I like milk
 >>> I like swim
 
+*   Red
+*   Green
+*   Blue
+
+1.  Bird
+2.  McHale
+3.  Parish
+
 ...c
 printf("HO");
 ...
