@@ -53,6 +53,7 @@
 ---------------------------------------
 # 進度規劃
 ![image](https://user-images.githubusercontent.com/92836676/147912819-c644ef8a-8371-426a-a477-ec50baa7762e.png)
+<img src="https://user-images.githubusercontent.com/92836676/147912819-c644ef8a-8371-426a-a477-ec50baa7762e.png"  width="120" height="120">
 ---------------------------------------
 
 # 參考文獻
