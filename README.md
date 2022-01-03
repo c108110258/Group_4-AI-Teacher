@@ -68,7 +68,7 @@
 * NUWA科技：https://www.nuwarobotics.com/zh-hant/
 * Kebbi Air S：https://www.esentra.com.tw/product/kebbi-air-s/
 ---------------------------------------
-![image](https://user-images.githubusercontent.com/92835373/147933202-57c97287-7a56-46a6-b6fc-6679bec60343.png = 250x250)
+![image](https://user-images.githubusercontent.com/92835373/147933202-57c97287-7a56-46a6-b6fc-6679bec60343.png ) {:height="36px" width="36px"}
 
 
 
