@@ -68,5 +68,5 @@
 * Kebbi Air S：https://www.esentra.com.tw/product/kebbi-air-s/
 ---------------------------------------
 
-![image](https://user-images.githubusercontent.com/92835373/147932601-62db2a60-6e70-4dfa-b00f-77b39a70c686.png)
+![image](https://user-images.githubusercontent.com/92835373/147932601-62db2a60-6e70-4dfa-b00f-77b39a70c686.png width="200" height="200") 
 
