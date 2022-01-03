@@ -26,8 +26,9 @@
 
 ---------------------------------------
 # 文獻回顧與文獻探討
-![image](https://user-images.githubusercontent.com/92836676/147912635-66634a3f-20ff-4dd6-a68d-e63bc30a7719.png)
-![image](https://user-images.githubusercontent.com/92836676/147912646-3278655e-5233-4956-89c9-ac25b585107d.png)
+![image](https://user-images.githubusercontent.com/92836676/147935788-3c45823f-a704-4d7f-a26d-e7086929d803.png)
+![image](https://user-images.githubusercontent.com/92836676/147935765-7da73ac4-c77d-47d8-a333-1cfda4c1d7b0.png)
+
 ### 以解數學題來講，市面上的解題程式大多大同小異，APP上有「Photomath」、「Microsoft Math Solver」，網站則有「Mathway」可供使用，基本功能都有支援掃描、手寫、鍵盤三種方法讓使用者輸入題目來 做使用，除了算出答案之外，也會有詳解，不過有些類型的題目就只有直接算出答案，沒有詳解可以看。
 
 # 研究步驟
@@ -42,18 +43,18 @@
 ![image](https://user-images.githubusercontent.com/92836676/147932301-0ea2a97f-6fc9-4c13-b868-5a7637d6da24.png)
 * ### 數學解題-使用mathAI的優點有以下，可透過圖片來做題；能辨識字符多，能因應多種題型；精度高，適應性強。缺點則有，辨識複雜數學題準確率較低；如過前面計算過程出錯會導致後續計算錯誤。
 ![image](https://user-images.githubusercontent.com/92836676/147932317-9c2a419f-07a3-48e6-bbb1-3b93080ad0a1.png)
-![image](https://user-images.githubusercontent.com/92836676/147932323-4867e342-3a33-42ae-9375-5fb65dbc821d.png)
+<img src="https://user-images.githubusercontent.com/92836676/147932323-4867e342-3a33-42ae-9375-5fb65dbc821d.png"  width="250" height="200">
 * ### 家長監控-使用Python加上OpenCV的功能，來使用家教機器人上的鏡頭，以網路來連接，家長可以透過手機，及時觀察學生的狀況。
-![image](https://user-images.githubusercontent.com/92836676/147932333-2d870899-4b8c-4a86-a43b-f4a8311478f8.png)
+<img src="https://user-images.githubusercontent.com/92836676/147932333-2d870899-4b8c-4a86-a43b-f4a8311478f8.png"  width="500" height="400">
 
 * ### 課文教學-整合出版社提供的電子書，讓學生對課文有疑問時可以查看。
----------------------------------------
+
 # 預期成果
-![image](https://user-images.githubusercontent.com/92836676/147912805-5599242d-e955-48a4-b2b8-8bf724f1ed57.png)
----------------------------------------
+<img src="https://user-images.githubusercontent.com/92836676/147935469-60344fdd-d70e-4cc5-bd13-50fe93bf177d.png"  width="600" height="300">
+
 # 進度規劃
-![image](https://user-images.githubusercontent.com/92836676/147912819-c644ef8a-8371-426a-a477-ec50baa7762e.png)
-<img src="https://user-images.githubusercontent.com/92836676/147912819-c644ef8a-8371-426a-a477-ec50baa7762e.png"  width="120" height="120">
+<img src="https://user-images.githubusercontent.com/92836676/147935366-05f598c3-9d57-45d6-8bce-7acc35bdc4df.png"  width="600" height="300">
+
 ---------------------------------------
 
 # 參考文獻
@@ -68,7 +69,3 @@
 * NUWA科技：https://www.nuwarobotics.com/zh-hant/
 * Kebbi Air S：https://www.esentra.com.tw/product/kebbi-air-s/
 ---------------------------------------
-![image](https://user-images.githubusercontent.com/92835373/147933202-57c97287-7a56-46a6-b6fc-6679bec60343.png ) {:height="36px" width="36px"}
-
-
-
