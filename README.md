@@ -49,9 +49,11 @@
 <img src="https://user-images.githubusercontent.com/92836676/147932333-2d870899-4b8c-4a86-a43b-f4a8311478f8.png"  width="500" height="400">
 
 * ### 課文教學-整合出版社提供的電子書，讓學生對課文有疑問時可以查看。
+![image](https://user-images.githubusercontent.com/92836676/148096092-81806db1-cdc7-41d6-8b8e-f3c93ebbf27b.png)
+
 
 # 預期成果
-<img src="https://user-images.githubusercontent.com/92836676/147935469-60344fdd-d70e-4cc5-bd13-50fe93bf177d.png"  width="600" height="300">
+<img src="![image](https://user-images.githubusercontent.com/92836676/148096168-898ea82f-af85-4494-9552-230696bdcc17.png)"  width="600" height="300">
 
 # 進度規劃
 <img src="https://user-images.githubusercontent.com/92836676/147935366-05f598c3-9d57-45d6-8bce-7acc35bdc4df.png"  width="600" height="300">
