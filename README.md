@@ -29,7 +29,7 @@
 ![image](https://user-images.githubusercontent.com/92836676/147935788-3c45823f-a704-4d7f-a26d-e7086929d803.png)
 ![image](https://user-images.githubusercontent.com/92836676/147935765-7da73ac4-c77d-47d8-a333-1cfda4c1d7b0.png)
 
-### 以解數學題來講，市面上的解題程式大多大同小異，APP上有「Photomath」、「Microsoft Math Solver」，網站則有「Mathway」可供使用，基本功能都有支援掃描、手寫、鍵盤三種方法讓使用者輸入題目來 做使用，除了算出答案之外，也會有詳解，不過有些類型的題目就只有直接算出答案，沒有詳解可以看。
+* ### 以解數學題來講，市面上的解題程式大多大同小異，APP上有「Photomath」、「Microsoft Math Solver」，網站則有「Mathway」可供使用，基本功能都有支援掃描、手寫、鍵盤三種方法讓使用者輸入題目來 做使用，除了算出答案之外，也會有詳解，不過有些類型的題目就只有直接算出答案，沒有詳解可以看。
 
 # 研究步驟
 * ### 系統架構圖
