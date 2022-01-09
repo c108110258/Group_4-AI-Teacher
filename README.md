@@ -53,7 +53,6 @@
 
 
 # 預期成果
-<img src="![image](https://user-images.githubusercontent.com/92836676/148096168-898ea82f-af85-4494-9552-230696bdcc17.png)"  width="600" height="300">
 
 # 進度規劃
 <img src="https://user-images.githubusercontent.com/92836676/147935366-05f598c3-9d57-45d6-8bce-7acc35bdc4df.png"  width="600" height="300">
