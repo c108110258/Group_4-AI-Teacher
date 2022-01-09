@@ -71,7 +71,7 @@
 ![image](https://user-images.githubusercontent.com/92835373/148681709-8fddfd0f-d8b8-4c53-9ae5-fc42b2102bb5.png)
 
 # 進度規劃
-<img src="https://user-images.githubusercontent.com/92836676/147935366-05f598c3-9d57-45d6-8bce-7acc35bdc4df.png"  width="600" height="300">
+<img src="https://user-images.githubusercontent.com/92836676/147935366-05f598c3-9d57-45d6-8bce-7acc35bdc4df.png"  width="600" height="400">
 
 ---------------------------------------
 
