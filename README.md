@@ -43,7 +43,7 @@
 ![image](https://user-images.githubusercontent.com/92836676/147932442-ef2af85e-bfd6-4710-96f3-dc13e11d215c.png)
 
 * ### 語音識別
-#### 語音識別系統是使用Google API，雖然它的音檔較大，而且需要連接網路才可使用，不過網路越快，辨識的速度也就越快，再加上它可以偵測多國語言而且準確率很高，不太會造成用戶的困擾。
+#### 語音識別系統是使用Google API，雖然它的音檔較大，而且需要連接網路才可使用，不過網路越快，辨識的速度也就越快，再加上它可以偵測多國語言而且準確率很高，不太會造成使用者的困擾。
 ![image](https://user-images.githubusercontent.com/92836676/148095905-32b340dd-df0e-42b0-bbc4-b4b3f09bfb0d.png)
 
 * ### 題庫應用
