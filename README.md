@@ -65,6 +65,7 @@
 
 * ### 家長監控
 使用Python加上OpenCV的功能，來使用家教機器人上的鏡頭，以網路來連接，家長可以透過手機，及時觀察學生的狀況。
+
 <img src="https://user-images.githubusercontent.com/92836676/147932333-2d870899-4b8c-4a86-a43b-f4a8311478f8.png"  width="500" height="400">
 
 * ### 課文教學
