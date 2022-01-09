@@ -42,12 +42,13 @@
 * ### 鏡頭識別
 圖像識別系統是使用OpenCV中的OCR(光學字元辨識)，我們引用的是Pytesseract，只要使用者將圖片拍照匯入程式中他就能將圖片轉成文字檔，也可以將使用者書寫的文字識別進電腦裡，這技術精準度很高也支持多個語言的轉換，目前此軟體是由Google進行維護。
 ![image](https://user-images.githubusercontent.com/92836676/147932442-ef2af85e-bfd6-4710-96f3-dc13e11d215c.png)
-![image](https://user-images.githubusercontent.com/92835373/148686600-f0b042bd-1bd1-45c8-9234-fccd401c6da3.png)
-
 
 * ### 語音識別
 語音識別系統是使用Google API，雖然它的音檔較大，而且需要連接網路才可使用，不過網路越快，辨識的速度也就越快，再加上它可以偵測多國語言而且準確率很高，不太會造成使用者的困擾。
+
 ![image](https://user-images.githubusercontent.com/92836676/148095905-32b340dd-df0e-42b0-bbc4-b4b3f09bfb0d.png)
+![image](https://user-images.githubusercontent.com/92835373/148686641-b51ccab9-3ecd-4ea8-80df-c53b7c4364f5.png)
+
 
 * ### 題庫應用
 題目資料庫透過網路，蒐集各教科書商的題庫，因應學生所使用的教科書。
