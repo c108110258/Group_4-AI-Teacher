@@ -40,6 +40,7 @@
 
 * ### 鏡頭識別
 圖像識別系統是使用OpenCV中的OCR(光學字元辨識)，我們引用的是Pytesseract，只要使用者將圖片拍照匯入程式中他就能將圖片轉成文字檔，也可以將使用者書寫的文字識別進電腦裡，這技術精準度很高也支持多個語言的轉換，目前此軟體是由Google進行維護。
+
 ![image](https://user-images.githubusercontent.com/92836676/147932442-ef2af85e-bfd6-4710-96f3-dc13e11d215c.png)
 
 * ### 語音識別
