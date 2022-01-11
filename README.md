@@ -52,14 +52,17 @@
 
 * ### 題庫應用
 題目資料庫透過網路，蒐集各教科書商的題庫，因應學生所使用的教科書。
+
 ![image](https://user-images.githubusercontent.com/92836676/148095949-46b48e03-eb36-4906-a557-c0d6ac7a1db7.png)
 
 * ### 題庫出題
 在學生使用AI家教做題目時，程式會蒐集學生答題該科目的正確率 ，在出題上會有較多的錯誤題目出題在此單元。
+
 ![image](https://user-images.githubusercontent.com/92836676/147932301-0ea2a97f-6fc9-4c13-b868-5a7637d6da24.png)
 
 * ### 數學解題
-使用mathAI的優點有以下，可透過圖片來做題；能辨識字符多，能因應多種題型；精度高，適應性強。缺點則有，辨識複雜數學題準確率較低；如過前面計算過程出錯會導致後續計算錯誤。
+使用mathAI的優點有以下，可透過圖片來做題；能辨識字符多，能因應多種題型；精度高，適應性強。缺點則有，辨識複雜數學題正確率較低；如果前面計算過程出錯會導致後續計算錯誤。
+
 ![image](https://user-images.githubusercontent.com/92836676/147932317-9c2a419f-07a3-48e6-bbb1-3b93080ad0a1.png)
 <img src="https://user-images.githubusercontent.com/92836676/147932323-4867e342-3a33-42ae-9375-5fb65dbc821d.png"  width="250" height="200">
 
@@ -69,7 +72,8 @@
 <img src="https://user-images.githubusercontent.com/92836676/147932333-2d870899-4b8c-4a86-a43b-f4a8311478f8.png"  width="500" height="400">
 
 * ### 課文教學
-#### 整合出版社提供的電子書，讓學生對課文有疑問時可以查看。
+題目資料庫透過結合出版社，如南一、康軒、翰林，我們整合各教科書商的題庫，因應學生所使用的教科書。
+
 ![image](https://user-images.githubusercontent.com/92836676/148096092-81806db1-cdc7-41d6-8b8e-f3c93ebbf27b.png)
 
 # 預期成果
