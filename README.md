@@ -36,18 +36,4 @@
 
 家長的部分，如果想查看學生的學習狀況，可透過網路連線機器人，是用手機連上鏡頭，可以及時監督學生是否用功讀書。
 
-# 進度規劃
-<img src="https://user-images.githubusercontent.com/92835373/148771475-0f598bbe-43f9-4d7c-bb7a-fbe9c9d773c2.png"  width="600" height="400">
----------------------------------------
-# 參考文獻
-* mathAI：https://github.com/Roujack/mathAI
-* OpenCV：https://medium.com/ching-i/python-opencv-%E8%AE%80%E5%8F%96%E9%A1%AF%E7%A4%BA%E5%8F%8A%E5%84%B2%E5%AD%98%E5%BD%B1%E5%83%8F-%E5%BD%B1%E7%89%87-ee3701c454da
-* COR：https://dotblogs.com.tw/RYNote/2021/01/14/105447
-* Google API 語音辨識：https://www.oxxostudio.tw/articles/201509/web-speech-api.html
-* ROYBI機器人：https://www.epochtimes.com/b5/21/6/20/n13035239.htm
-* Photomath：https://agirls.aotter.net/post/52065
-* Microsoft Math Solver：https://math.microsoft.com/zh
-* Mathway：https://www.pkstep.com/archives/22122
-* NUWA科技：https://www.nuwarobotics.com/zh-hant/
-* Kebbi Air S：https://www.esentra.com.tw/product/kebbi-air-s/
 ---------------------------------------
